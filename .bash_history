@@ -184,3 +184,126 @@ sudo yum install python -y
 sudo yum install python 2 -y
 sudo yum install python2 -y
 sudo yum install python3 -y
+cd visa
+cat tes
+cat test.cases
+echo "FinTech-Tools" >> cases
+cat test.cases
+cat cases
+pwd
+git status
+got onot
+git init
+git status
+git add cases
+git status
+ls -a
+git commit
+git add .bash_history
+        .bash_logout
+        .bash_profile
+        .bashrc
+        .class.sh.swo
+        .class.sh.swp
+        .config
+        .deploy.sh.swp
+        .ssh/
+        app.js
+        boa/
+        deploy.sh
+        greet.sh
+        hello.sc
+        hello.sh
+        may2022/
+        visa/
+cd may2022
+cd visa
+pwd
+git push
+git add cases
+git add test.cases
+git add test
+ls
+cd visa
+cd may
+pwd
+cd visa
+mkdir visa
+cd visa
+git add cases
+git add test.cases
+git add cases
+tree
+cd /home/ec2-user/visa
+ls
+git add cases
+git add test.cases
+tree
+git add .
+git add *
+git commit cases
+git show 
+cd visa
+git show
+python
+clear
+sudo yum install python3
+python3 deploy.py
+touch deploy.py
+python3 deploy.py
+git log
+git add
+git status
+git add visa
+cd visa
+git add test
+git add test.cases
+git add cases
+git status
+git commit cases
+GIT COMMIT -M
+cd visa
+git commit -m
+cd visa
+ls
+git staus
+git status
+git add deploy.py
+git commit deploy.py  -m
+mkdir tesla
+cd tesla
+mkdir visa
+cd visa
+echo "technologies">> test.cases
+tree
+ls
+git status
+git loh
+git log
+git config global user.name
+git config user.name "Anewapproach"
+git config user.email "Anewapproach2018@gmail.com"
+git log
+git status
+vi deploy.py
+cat deploy.py
+vi deploy.py
+git commit -m
+git commit -m "tools added"
+cd visa
+git status
+git show commit-ID
+git show
+cd visa
+cd visa
+git log
+git commit -m "db connection"
+git status
+git add deploy.py test.cases
+git status
+git show commit
+git show
+show commit-id
+git show commit-id
+git show commit-ID
+git show
